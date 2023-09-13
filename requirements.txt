@@ -1,0 +1,4 @@
+ipykernel==6.25.1
+matplotlib==3.7.2
+pip-chill==1.0.3
+umap-learn==0.5.3
